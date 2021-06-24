@@ -4,7 +4,7 @@
 
 ## Will be droping a cool new project on this soon.
 
-Vidio refered:
-https://www.youtube.com/watch?v=JfeCmn8NT88&t=2140s
+Site refered:
+https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example
 
 ### Cheers!
